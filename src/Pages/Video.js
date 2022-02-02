@@ -1,3 +1,4 @@
+import React from "react";
 import ReactPlayer from "react-player";
 
 // Funktion för att spela upp en video på sidan
