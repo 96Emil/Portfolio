@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+My Portfolio, here you will find links to where to find me online as well as different ways of contacting me.
+
 ## Available Scripts
 
 In the project directory, you can run:
