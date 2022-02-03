@@ -52,8 +52,7 @@ const Contact = () => {
 
   return (
     <div
-      className="backGround-Image"
-      className="Contact"
+      className="backGround-Image Contact"
       style={{
         backgroundColor: "black",
         backgroundRepeat: "no-repeat",
