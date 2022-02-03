@@ -4,8 +4,7 @@ import Footer from "./Footer";
 const Photography = () => {
   return (
     <div
-      className="backGround-Image"
-      className="Photography"
+      className="backGround-Image Photography"
       style={{
         backgroundColor: "black",
         backgroundRepeat: "no-repeat",
